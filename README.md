@@ -6,3 +6,5 @@ Primeiro exemplo de commit e push no repositório remoto.
 Segundo commit no arquivo
 Terceiro commit.
 Quarto commit.
+Quinto commit.
+
